@@ -8,3 +8,5 @@ White always moves first, and players alternate turns. Players can only move one
 
 Taking Pieces:
 Players take pieces when they encounter an opponent in their movement path. Only pawns take differently than they move (explained later). Players cannot take or move through their own pieces.
+
+This is a solution to issue#1
