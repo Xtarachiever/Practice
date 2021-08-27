@@ -8,5 +8,7 @@ White always moves first, and players alternate turns. Players can only move one
 
 Taking Pieces:
 Players take pieces when they encounter an opponent in their movement path. Only pawns take differently than they move (explained later). Players cannot take or move through their own pieces.
+Pawns only move forward. On the first move a pawn can move one or two spaces, every subsequent move can only be one space. Pawns move diagonally to take opponents.
 
-This is a solution to #1.
+Pawn Promotion:
+If a pawn reaches the opposite side of the board, it is promoted to a higher piece (except king). There is no limit to how many pawns can be promoted.
