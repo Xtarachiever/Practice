@@ -4,3 +4,6 @@ body{
 .main{
     background-color: red;
 }
+h1{
+    height: 40px;
+}
