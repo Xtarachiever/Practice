@@ -4,6 +4,9 @@ body{
 .main{
     background-color: red;
 }
+h1{
+    height: 40px;
+}
 .sub_main{
     text-align: center;
 }
